@@ -13,8 +13,7 @@ require.config({
           exports: 'Backbone'
         },
         'lib/jquery.tagsinput': {
-          deps: ["jquery"],
-          exports: 'TagsInput'
+          deps: ["jquery"]
         }
   }
 });
